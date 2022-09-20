@@ -41,14 +41,13 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="My Shopping List"
+            android:text="My Grocery Items"
             android:gravity="center"
             android:textAlignment="center"
             android:textSize="25sp"
             android:textStyle="bold"
             android:background="@color/blue_shade_2"
             android:textColor="@color/white"/>
-        ba
     </androidx.cardview.widget.CardView>
 
 

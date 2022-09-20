@@ -1,2 +1,1 @@
-The grocery app is developed for Android using Android Studio. Because we can't remember everything, we frequently forget to buy the things we want to buy. However, with the aid of this app, you may make a list of the groceries you intend to buy so that you don't forget anything. Below is a sample graphic that will help you understand what this post will be about. Kotlin was used to implement this project.
-
+The grocery app is developed for Android using Android Studio. Because we can't remember everything, we frequently forget to buy the things we want to buy. However, with the aid of this app, you may make a list of the groceries you intend to buy so that you don't forget anything. Kotlin was used to implement this project.
