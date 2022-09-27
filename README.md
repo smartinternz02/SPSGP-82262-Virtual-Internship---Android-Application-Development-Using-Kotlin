@@ -25,11 +25,11 @@ DAO: Data access object.A mapping of SQL queriesto functions. When you use a DAO
 
 <h3><b>Output</b></h3>
 
-![Overview](url "Screenshot\Overview.png")
+![Overview](url "https://github.com/smartinternz02/SPSGP-82262-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Screenshot/Overview.png")
 
-![Adding new item](url "\Screenshot\Add new item.png")
+![Adding new item](url "https://github.com/smartinternz02/SPSGP-82262-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Screenshot/Add%20new%20item.png")
 
-![Delete item](url "\Screenshot\delete item.png")
+![Delete item](url "https://github.com/smartinternz02/SPSGP-82262-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Screenshot/delete%20item.png")
 
 <h3><b>Demo link</b></h3>
 https://drive.google.com/file/d/1tWAHzdpk3nEu9mgZtr8yjqa7odM16qhx/view?usp=sharing
