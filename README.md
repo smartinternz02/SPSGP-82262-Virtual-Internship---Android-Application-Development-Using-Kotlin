@@ -25,11 +25,11 @@ DAO: Data access object.A mapping of SQL queriesto functions. When you use a DAO
 
 <h3><b>Output</b></h3>
 
-![Overview]("Screenshot/Overview.png")
+![Overview](Screenshot/Overview.png)
 
-![Adding new item]("Screenshot/Add%20new%20item.png")
+![Adding new item](Screenshot/Add%20new%20item.png)
 
-![Delete item]("Screenshot/delete%20item.png")
+![Delete item](Screenshot/delete%20item.png)
 
 <h3><b>Demo link</b></h3>
 https://drive.google.com/file/d/1tWAHzdpk3nEu9mgZtr8yjqa7odM16qhx/view?usp=sharing
